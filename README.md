@@ -6,6 +6,7 @@
 <a href="https://github.com/goolord/url-bytes"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goolord&repo=url-bytes&theme=gruvbox" /> </a>
 <a href="https://github.com/goolord/checked-exceptions"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goolord&repo=checked-exceptions&theme=gruvbox" /> </a>
 <a href="https://github.com/goolord/wordn"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goolord&repo=wordn&theme=gruvbox" /> </a>
+<a href="https://github.com/goolord/word-array"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goolord&repo=word-array&theme=gruvbox" /> </a>
 <a href="https://github.com/goolord/atrophy"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goolord&repo=atrophy&theme=gruvbox" /> </a>
 
 ### Rust
