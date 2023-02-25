@@ -19,3 +19,4 @@
 
 ### Other
 <a href="https://github.com/goolord/dotfiles"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goolord&repo=dotfiles&theme=gruvbox" /> </a>
+<a href="https://github.com/goolord/simple-zsh-nix-shell"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goolord&repo=simple-zsh-nix-shell&theme=gruvbox" /> </a>
