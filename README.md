@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=goolord&show_icons=true&theme=gruvbox&count_private=true" alt="goolord stats" />
+<img src="./github-metrics.svg" alt="goolord metrics" />
 
 </div>
 
