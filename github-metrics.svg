@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="180" viewBox="0 0 480 180" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub metrics placeholder</title>
+  <desc id="desc">The monthly GitHub Actions workflow will replace this placeholder with generated metrics.</desc>
+  <rect width="480" height="180" rx="12" fill="#282828" />
+  <text x="240" y="78" fill="#ebdbb2" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" text-anchor="middle">
+    GitHub metrics
+  </text>
+  <text x="240" y="114" fill="#d5c4a1" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" text-anchor="middle">
+    Generated monthly by the Update GitHub metrics workflow
+  </text>
+</svg>
