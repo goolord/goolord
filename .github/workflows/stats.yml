@@ -26,6 +26,13 @@ jobs:
           base: header, activity, community, repositories, metadata
           repositories_skipped: goolord/goolord
 
+          # Repositories plugin (includes descriptions and stars)
+          plugin_repositories: yes
+          plugin_repositories_pinned: 6
+          plugin_repositories_starred: 4
+          plugin_repositories_order: pinned, starred, featured
+          plugin_repositories_featured: goolord/alpha-nvim, goolord/atrophy, goolord/ditto, goolord/jshark, goolord/tundra, goolord/creepy
+
           extras_css: |
             svg {
               background-color: #1d1f21 !important;
