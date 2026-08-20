@@ -1,22 +1,26 @@
-![goolord's github stats](https://github-readme-stats.vercel.app/api?username=goolord&count_private=true&show_icons=true&theme=gruvbox)
+<div align="center">
+
+<img src="./github-metrics.svg" alt="goolord stats" />
+
+</div>
 
 ### Haskell
-<a href="https://github.com/goolord/ditto"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goolord&repo=ditto&theme=gruvbox" /> </a>
-<a href="https://github.com/goolord/jshark"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goolord&repo=jshark&theme=gruvbox" /> </a>
-<a href="https://github.com/goolord/url-bytes"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goolord&repo=url-bytes&theme=gruvbox" /> </a>
-<a href="https://github.com/goolord/checked-exceptions"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goolord&repo=checked-exceptions&theme=gruvbox&description_lines_count=1" /> </a>
-<a href="https://github.com/goolord/wordn"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goolord&repo=wordn&theme=gruvbox" /> </a>
-<a href="https://github.com/goolord/word-array"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goolord&repo=word-array&theme=gruvbox" /> </a>
-<a href="https://github.com/goolord/atrophy"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goolord&repo=atrophy&theme=gruvbox" /> </a>
+[![ditto](https://img.shields.io/badge/ditto-Haskell-fabd2f?style=for-the-badge&logo=haskell&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/ditto)
+[![jshark](https://img.shields.io/badge/jshark-Haskell-fabd2f?style=for-the-badge&logo=haskell&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/jshark)
+[![url-bytes](https://img.shields.io/badge/url--bytes-Haskell-fabd2f?style=for-the-badge&logo=haskell&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/url-bytes)
+[![checked-exceptions](https://img.shields.io/badge/checked--exceptions-Haskell-fabd2f?style=for-the-badge&logo=haskell&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/checked-exceptions)
+[![wordn](https://img.shields.io/badge/wordn-Haskell-fabd2f?style=for-the-badge&logo=haskell&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/wordn)
+[![word-array](https://img.shields.io/badge/word--array-Haskell-fabd2f?style=for-the-badge&logo=haskell&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/word-array)
+[![atrophy](https://img.shields.io/badge/atrophy-Haskell-fabd2f?style=for-the-badge&logo=haskell&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/atrophy)
 
 ### Rust
-<a href="https://github.com/goolord/tundra"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goolord&repo=tundra&theme=gruvbox" /> </a>
-<a href="https://github.com/goolord/creepy"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goolord&repo=creepy&theme=gruvbox" /> </a>
+[![tundra](https://img.shields.io/badge/tundra-Rust-fe8019?style=for-the-badge&logo=rust&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/tundra)
+[![creepy](https://img.shields.io/badge/creepy-Rust-fe8019?style=for-the-badge&logo=rust&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/creepy)
 
-### Nvim
-<a href="https://github.com/goolord/alpha-nvim"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goolord&repo=alpha-nvim&theme=gruvbox" /> </a>
-<a href="https://github.com/goolord/nvim"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goolord&repo=nvim&theme=gruvbox" /> </a>
+### Neovim
+[![alpha-nvim](https://img.shields.io/badge/alpha--nvim-Neovim-b8bb26?style=for-the-badge&logo=neovim&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/alpha-nvim)
+[![nvim](https://img.shields.io/badge/nvim-Config-b8bb26?style=for-the-badge&logo=neovim&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/nvim)
 
 ### Other
-<a href="https://github.com/goolord/dotfiles"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goolord&repo=dotfiles&theme=gruvbox" /> </a>
-<a href="https://github.com/goolord/simple-zsh-nix-shell"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goolord&repo=simple-zsh-nix-shell&theme=gruvbox" /> </a>
+[![dotfiles](https://img.shields.io/badge/dotfiles-Arch%20%2F%20Linux-83a598?style=for-the-badge&logo=archlinux&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/dotfiles)
+[![simple-zsh-nix-shell](https://img.shields.io/badge/simple--zsh--nix--shell-Nix-83a598?style=for-the-badge&logo=nixos&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/simple-zsh-nix-shell)
