@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="367" class="">
     <defs>
         <style/>
@@ -212,3 +213,19 @@
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
     </foreignObject>
 </svg>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="180" viewBox="0 0 480 180" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub metrics placeholder</title>
+  <desc id="desc">Generated GitHub metrics with Tomorrow Night theme</desc>
+  <rect width="480" height="180" rx="10" fill="#1d1f21" stroke="#373b41" stroke-width="1" />
+  <text x="240" y="78" fill="#81a2be" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="600" text-anchor="middle">
+    GitHub Metrics
+  </text>
+  <text x="240" y="114" fill="#c5c8c6" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" text-anchor="middle">
+    Theme: Tomorrow Night
+  </text>
+  <text x="240" y="140" fill="#969896" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" text-anchor="middle">
+    Updated automatically by GitHub Actions
+  </text>
+</svg>
+>>>>>>> a3baf40 (theme)

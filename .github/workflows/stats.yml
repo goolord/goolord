@@ -21,5 +21,34 @@ jobs:
         uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: goolord
           filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
+          repositories_skipped: goolord/goolord
+
+          extras_css: |
+            svg {
+              background-color: #1d1f21 !important;
+              color: #c5c8c6 !important;
+              border-radius: 6px;
+            }
+            h1, h2, h3 {
+              color: #81a2be !important;
+            }
+            .field {
+              color: #c5c8c6 !important;
+            }
+            .field svg {
+              fill: #8abeb7 !important;
+            }
+            .field.language.details small {
+              color: #969896 !important;
+            }
+            .calendar .day {
+              outline: 1px solid #373b41 !important;
+            }
+            .label {
+              background-color: #282a2e !important;
+              color: #81a2be !important;
+            }
+
