@@ -1,0 +1,25 @@
+name: Metrics
+
+on:
+  # Run once a month (at 00:00 on the 1st of every month)
+  schedule:
+    - cron: "0 0 1 * *"
+  # Allow manual trigger from GitHub Actions UI
+  workflow_dispatch:
+  # Trigger on push to main
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          filename: github-metrics.svg
+          base: header, activity, community, repositories, metadata
