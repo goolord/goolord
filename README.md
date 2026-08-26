@@ -8,7 +8,7 @@
 [![jshark](https://img.shields.io/badge/jshark-Haskell-fabd2f?style=for-the-badge&logo=haskell&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/jshark) [![stars](https://img.shields.io/github/stars/goolord/jshark?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/jshark/stargazers)  
 *🦈 Safe JavaScript EDSL*
 
-[![nano-ui](https://img.shields.io/badge/nano-ui-Haskell-fabd2f?style=for-the-badge&logo=haskell&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/nano-ui) [![stars](https://img.shields.io/github/stars/goolord/nano-ui?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/nano-ui/stargazers)  
+[![nano-ui](https://img.shields.io/badge/nano--ui-Haskell-fabd2f?style=for-the-badge&logo=haskell&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/nano-ui) [![stars](https://img.shields.io/github/stars/goolord/nano-ui?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/nano-ui/stargazers)  
 *functional immediate mode GUI library*
 
 [![ditto](https://img.shields.io/badge/ditto-Haskell-fabd2f?style=for-the-badge&logo=haskell&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/ditto) [![stars](https://img.shields.io/github/stars/goolord/ditto?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/ditto/stargazers)  
