@@ -20,7 +20,7 @@
 [![checked-exceptions](https://img.shields.io/badge/checked--exceptions-Haskell-fabd2f?style=for-the-badge&logo=haskell&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/checked-exceptions) [![stars](https://img.shields.io/github/stars/goolord/checked-exceptions?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/checked-exceptions/stargazers)  
 *A monad transformer that allows you to throw and catch a restricted set of exceptions, tracked at the type level*
 
-[![ned](https://img.shields.io/badge/checked--exceptions-Haskell-fabd2f?style=for-the-badge&logo=haskell&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/ned) [![stars](https://img.shields.io/github/stars/goolord/ned?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/ned/stargazers)  
+[![ned](https://img.shields.io/badge/ned-Haskell-fabd2f?style=for-the-badge&logo=haskell&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/ned) [![stars](https://img.shields.io/github/stars/goolord/ned?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/ned/stargazers)  
 *pure haskell low-latency source code editor*
 
 [![wordn](https://img.shields.io/badge/wordn-Haskell-fabd2f?style=for-the-badge&logo=haskell&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/wordn) [![stars](https://img.shields.io/github/stars/goolord/wordn?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/wordn/stargazers)  
