@@ -32,7 +32,7 @@
 [![atrophy](https://img.shields.io/badge/atrophy-Haskell-fabd2f?style=for-the-badge&logo=haskell&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/atrophy) [![stars](https://img.shields.io/github/stars/goolord/atrophy?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/atrophy/stargazers)  
 *Faster integer division and modulus operations*
 
-[![chibi-ui](https://img.shields.io/badge/nano--ui-Haskell-fabd2f?style=for-the-badge&logo=haskell&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/chibi-ui) [![stars](https://img.shields.io/github/stars/goolord/chibi-ui?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/chibi-ui/stargazers)  
+[![chibi-ui](https://img.shields.io/badge/chibi--ui-Haskell-fabd2f?style=for-the-badge&logo=haskell&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/chibi-ui) [![stars](https://img.shields.io/github/stars/goolord/chibi-ui?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828&labelColor=3c3836)](https://github.com/goolord/chibi-ui/stargazers)  
 *cutest haskell immediate mode UI library*
 
 ### Rust
