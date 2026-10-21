@@ -13,12 +13,14 @@
       <a href="https://github.com/goolord/jshark/stargazers"><img src="https://img.shields.io/github/stars/goolord/jshark?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828&labelColor=3c3836" alt="stars" /></a>
       <br/>
       <em>🦈 Safe JavaScript EDSL</em>
+      <img width="500" height="0" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/goolord/nano-ui"><img src="https://img.shields.io/badge/nano--ui-Haskell-fabd2f?style=for-the-badge&logo=haskell&logoColor=ebdbb2&color=282828&labelColor=3c3836" alt="nano-ui" /></a>
       <a href="https://github.com/goolord/nano-ui/stargazers"><img src="https://img.shields.io/github/stars/goolord/nano-ui?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828&labelColor=3c3836" alt="stars" /></a>
       <br/>
       <em>functional immediate mode GUI library</em>
+      <img width="500" height="0" />
     </td>
   </tr>
   <tr>
@@ -88,12 +90,14 @@
       <a href="https://github.com/goolord/tundra/stargazers"><img src="https://img.shields.io/github/stars/goolord/tundra?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828&labelColor=3c3836" alt="stars" /></a>
       <br/>
       <em>WIP sample browser</em>
+      <img width="500" height="0" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/goolord/creepy"><img src="https://img.shields.io/badge/creepy-Rust-fe8019?style=for-the-badge&logo=rust&logoColor=ebdbb2&color=282828&labelColor=3c3836" alt="creepy" /></a>
       <a href="https://github.com/goolord/creepy/stargazers"><img src="https://img.shields.io/github/stars/goolord/creepy?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828&labelColor=3c3836" alt="stars" /></a>
       <br/>
       <em>🐛 creepy web crawly</em>
+      <img width="500" height="0" />
     </td>
   </tr>
 </table>
@@ -107,12 +111,14 @@
       <a href="https://github.com/goolord/alpha-nvim/stargazers"><img src="https://img.shields.io/github/stars/goolord/alpha-nvim?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828&labelColor=3c3836" alt="stars" /></a>
       <br/>
       <em>a lua powered greeter like vim-startify / dashboard-nvim</em>
+      <img width="500" height="0" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/goolord/nvim"><img src="https://img.shields.io/badge/nvim-Config-b8bb26?style=for-the-badge&logo=neovim&logoColor=ebdbb2&color=282828&labelColor=3c3836" alt="nvim" /></a>
       <a href="https://github.com/goolord/nvim/stargazers"><img src="https://img.shields.io/github/stars/goolord/nvim?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828&labelColor=3c3836" alt="stars" /></a>
       <br/>
       <em>init.lua</em>
+      <img width="500" height="0" />
     </td>
   </tr>
 </table>
@@ -126,12 +132,14 @@
       <a href="https://github.com/goolord/dotfiles/stargazers"><img src="https://img.shields.io/github/stars/goolord/dotfiles?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828&labelColor=3c3836" alt="stars" /></a>
       <br/>
       <em>dotfiles</em>
+      <img width="500" height="0" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/goolord/simple-zsh-nix-shell"><img src="https://img.shields.io/badge/simple--zsh--nix--shell-Nix-83a598?style=for-the-badge&logo=nixos&logoColor=ebdbb2&color=282828&labelColor=3c3836" alt="simple-zsh-nix-shell" /></a>
       <a href="https://github.com/goolord/simple-zsh-nix-shell/stargazers"><img src="https://img.shields.io/github/stars/goolord/simple-zsh-nix-shell?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828&labelColor=3c3836" alt="stars" /></a>
       <br/>
       <em>zsh plugin that lets you use zsh in nix shells</em>
+      <img width="500" height="0" />
     </td>
   </tr>
 </table>
